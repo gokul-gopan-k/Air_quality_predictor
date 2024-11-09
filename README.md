@@ -6,9 +6,9 @@
 
 * Clone the repo
   
-```git clone https://github.com/gokul-gopan-k/Migratory-bird-tracking.git```
+```git clone https://github.com/gokul-gopan-k/Air_quality_predictor.git```
 
-```cd Migratory-bird-tracking```
+```cd Air_quality_predictor```
 
 * Run requirements file
 
